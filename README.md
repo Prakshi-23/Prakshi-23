@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Science and Data Analytics with AI
 - 📫 How to reach me pkkarkera2@gmail.com 
-- ⚡ Fun fact: ...
+- Looking for a Python developer job.
 
 <!---
 Prakshi-23/Prakshi-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
